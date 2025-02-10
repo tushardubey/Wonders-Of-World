@@ -48,4 +48,24 @@ This project uses Docker Compose to manage multi-container deployments:
 - Make sure java_home is pointing to the correct user
 - .git issue - If it get corrupted remove the files and again clone it
 
+## Snaps
+
+--UI
+![image](https://github.com/user-attachments/assets/c333bc4f-ac86-4c17-a007-882467d05fc1)
+
+--Sonar Qube
+![image](https://github.com/user-attachments/assets/fbd8d626-e186-435e-bf47-bb4f221ed1ea)
+![image](https://github.com/user-attachments/assets/af3b44e4-e9cd-4e25-aa64-5761079962b7)
+![image](https://github.com/user-attachments/assets/96559145-5d30-4d38-a812-4a629c6c3f53)
+
+--Trivy
+![image](https://github.com/user-attachments/assets/dccc0808-54e2-4b27-943f-7c660f480e48)
+
+--Owasp 
+![image](https://github.com/user-attachments/assets/3db2a287-60d6-4ea3-a7a4-564fab29d391)
+
+ 
+
+
+
 
